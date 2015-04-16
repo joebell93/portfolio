@@ -26,8 +26,8 @@ Working in New Media: Year Two (COMM2790)
 
 Design for New Media: Year One (COMM1720)
  - [Cooper's Castles](http://joebell.co.uk/doc/COMM1720-Joe%20Bell-cs12j2b-Style%20Guide.pdf) - Rebrand
- - [Build](http://joebell.co.uk/doc/COMM1720-Joe%20Bell-cs12j2b-Style%20Guide.pdf) - TV idents
- - [Bristol Graffiti Festival](http://joebell.co.uk/doc/COMM1720-Joe%20Bell-cs12j2b-Style%20Guide.pdf) - Multiformat Campaign
+ - [Build](http://joebell.co.uk/doc/COMM1720-JoeBell-cs12j2b-TVIdents.pdf) - TV idents
+ - [Bristol Graffiti Festival](http://joebell.co.uk/doc/COMM1720-JosephBell-cs12j2b-Multiformat%20Campaign.pdf) - Multiformat Campaign
 
 #### CottageHolidays.com (2014)
  - [CottageHolidays.com](http://html.p.webdevs.com/cottages/) (Under development) - Lead designer in collaboration with Ecru
