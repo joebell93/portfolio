@@ -84,10 +84,10 @@ Motion Graphics: Year Two (COMM2870)
 #### Flickr Portfolio
 - [Flickr](https://www.flickr.com/photos/joebell_/sets/72157644512849860/) - Various photos
 
-#### Jon Hopkins [Live] (2014)
+#### Jon Hopkins - Live (2014)
 - [Jon Hopkins](https://www.flickr.com/photos/joebell_/sets/72157642018119755/) - Backstage access to Jon Hopkins' show at Canal Mills in Leeds with Tourist supporting
 
-#### Coldplay [Live] (2012)
+#### Coldplay - Live (2012)
 - [Coldplay](https://www.flickr.com/photos/joebell_/14119531090/in/set-72157644512849860) - Front-of-show photos from one of Coldplay's 2012 London Emirates Stadium shows
 
 ----------
