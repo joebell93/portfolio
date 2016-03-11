@@ -50,10 +50,10 @@ Mobile Media: Year Three (COMM3780)
 - [Scrapmap](https://www.youtube.com/watch?v=NkG9rHnjIco) - Developer (and designer) for a prototype map scrapbooking app built in Polymer and exported to Android using Cordova
 
 Working in New Media: Year Two (COMM2790)
-- [Baroque](http://cs12j2b.icsnewmedia.net/baroque/) - Developer (and designer) for a group project to create a craft beer brand and restaurant in Leeds
+- [Baroque](http://nm-admin.icsnewmedia.net/marking-archive/2014/2790/t4-mixd-baroque/) - Developer (and designer) for a group project to create a craft beer brand and restaurant in Leeds
 
 Dynamic Web Programming: Year Two (COMM2735)
-- [FilmFinder](http://cs12j2b.icsnewmedia.net/year2/comm2735/filmfinder/welcome.php) - PHP-powered movie finding web application
+- [FilmFinder](http://leedsnewmedia.net/showcase/2735/filmfinder/welcome.php) - PHP-powered movie finding web application
 
 Interface Design: Year One (COMM1730)
 - [MAECare](http://leedsnewmedia.net/showcase/1730/maec_jb/) - Redesign and website rebuild for Leeds based charity MAECare
