@@ -1,100 +1,100 @@
-Portfolio
-===================
+# Portfolio
 
-A collection of personal projects and experiments by [Joe Bell](http://joebell.co.uk).
+A collection of projects and experiments by [Joe Bell](http://joebell.co.uk).
 
- - [Work in Progress](#wip)
- - [Design](#design)
- - [Development](#dev)
- - [Video](#video)
- - [Photo](#photo)
- - [Miscellaneous](#misc)
+* [Frontend](#frontend)
+* [Design](#design)
+* [Video](#video)
+* [Photo](#photo)
+* [Misc](#misc)
 
-----------
+---
 
+## Frontend
 
-<a name="design"></a>Design
--------------
+### Sky <small style="font-weight: normal;">(2015-Present)</small>
 
-#### University of Leeds: BA New Media (2012-2015)
+#### Toolkit
 
-Mobile Media: Year Three (COMM3780)
-- [Scrapmap](https://www.youtube.com/watch?v=NkG9rHnjIco) - Designer (and developer) for a prototype map scrapbooking app built in Polymer and exported to Android using Cordova
+> 2018 Update: We're currently revamping/evolving Toolkit and it's [documentation site](http://sky.com/toolkit) into a fully fledged Design System.
 
-Working in New Media: Year Two (COMM2790)
-- [Baroque](http://cs12j2b.icsnewmedia.net/baroque/) - Designer (and developer) for a group project to create a craft beer brand and restaurant in Leeds 
+Main contributor and design authority of [Sky's CSS Toolkit](https://github.com/sky-uk/toolkit); a scalable, modular (S)CSS framework for building Sky-themed products.
 
-Design for New Media: Year One (COMM1720)
- - [Cooper's Castles](http://joebell.co.uk/doc/COMM1720-Joe%20Bell-cs12j2b-Style%20Guide.pdf) - Rebrand
- - [Build](http://joebell.co.uk/doc/COMM1720-JoeBell-cs12j2b-TVIdents.pdf) - TV idents
- - [Bristol Graffiti Festival](http://joebell.co.uk/doc/COMM1720-JosephBell-cs12j2b-Multiformat%20Campaign.pdf) - Multiformat Campaign
+A full rebuild of our [web-toolkit](https://github.com/skyglobal/web-toolkit), with support from [Harry Roberts](https://twitter.com/csswizardry).
 
-#### CottageHolidays.com (2014)
- - [CottageHolidays.com](http://html.p.webdevs.com/cottages/) (Under development) - Lead designer in collaboration with Ecru
+##### Stats
 
-#### Glastonbury Tor (2013)
- - [Glastonbury Tor](http://www.glastonburytor.co.uk/) - Logo design for satirical news blog
+* Sky's **second most starred** GitHub repository: [**sky-uk/toolkit**](https://github.com/sky-uk/toolkit).
+* Internally, Toolkit is boosted with a react-flavoured implementation.
 
-----------
+#### Masthead
 
+Frontend Lead (and animation/interaction lead) on a project to rebuild our 5-year-old Masthead (Header/Footer) for [sky.com](sky.com).
 
-<a name="dev">Development
--------------
+The mobile-first design included various accessibility and performance improvements.
 
-#### University of Leeds: BA New Media (2012-2015)
+[View Before/After comparison](https://pbs.twimg.com/media/DJsmghDXcAAfusq.jpg:large)
 
-Project I & II: Year Three (COMM3710 & COMM3720)
-- [Mixamu](http://joebell.co.uk/uni/blog/) (Work in progress) - A web application allowing users to create and share playlists using tracks from YouTube, Soundcloud and Dropbox
+#### CSS Style Guide
 
-Mobile Media: Year Three (COMM3780)
-- [Scrapmap](https://www.youtube.com/watch?v=NkG9rHnjIco) - Developer (and designer) for a prototype map scrapbooking app built in Polymer and exported to Android using Cordova
+Main contributor to [Sky's CSS Style Guide](https://github.com/sky-uk/css); general guidelines for writing consistent, scalable and maintainable CSS/SCSS.
 
-Working in New Media: Year Two (COMM2790)
-- [Baroque](http://nm-admin.icsnewmedia.net/marking-archive/2014/2790/t4-mixd-baroque/) - Developer (and designer) for a group project to create a craft beer brand and restaurant in Leeds
+##### Stats
 
-Dynamic Web Programming: Year Two (COMM2735)
+* Sky's **most starred** GitHub repository: [**sky-uk/css**](https://github.com/sky-uk/css).
+* Featured in [Frontend Focus #272](https://frontendfoc.us/issues/272)
+
+### University of Leeds <small style="font-weight: normal;">(2012-2015)</small>
+
+#### Final Year Project
+  
+[Mixamu](http://joebell.co.uk/uni/blog/) (Deprecated) - A web application allowing users to create and share playlists using tracks from YouTube, Soundcloud and Dropbox
+
+#### Mobile Media: Year Three
+
+[Scrapmap](https://www.youtube.com/watch?v=NkG9rHnjIco) - Developer (and designer) for a prototype map scrapbooking app built in Polymer and exported to Android using Cordova
+
+#### Dynamic Web Programming: Year Two
 - [FilmFinder](http://leedsnewmedia.net/showcase/2735/filmfinder/welcome.php) - PHP-powered movie finding web application
 
-Interface Design: Year One (COMM1730)
-- [MAECare](http://leedsnewmedia.net/showcase/1730/maec_jb/) - Redesign and website rebuild for Leeds based charity MAECare
+---
 
-----------
+## Design
 
+Follow me on [Dribbble](https://dribbble.com/joebell).
 
-<a name="video">Video
--------------
+Various other portfolio samples available on request.
 
-#### University of Leeds: BA New Media (2012-2015)
+---
 
-Motion Graphics: Year Two (COMM2870)
-- [Moments](https://www.youtube.com/watch?v=uiS1cx38rKk) - Animated images from the British Library's Flickr archive
+## Video
 
-#### Europe Express (2014)
-- [Europe Express](https://vimeo.com/102052151) - An 11 day journey around mainland Europe
+#### Australasia <small style="font-weight: normal;">(2018)</small>
 
-#### Living with Autism (2012)
-- [Living with Autism](https://vimeo.com/34796278) - A short documentary about a 19-year-old Asperger's Syndrome sufferer (went viral on Reddit and winner of Best Documentary at Southend Film Festival) 
+[Australasia](https://vimeo.com/251627173) - In 2017, I took a month off and went on an adventure.
 
-----------
+#### University of Leeds <small style="font-weight: normal;">(2012-2015)</small>
 
+[Moments](https://www.youtube.com/watch?v=uiS1cx38rKk) - Animated images from the British Library's Flickr archive. Made during my second year "Motion Graphics" module.
 
-<a name="photo">Photo
--------------
+#### Europe Express <small style="font-weight: normal;">(2014)</small>
 
-#### Flickr Portfolio
-- [Flickr](https://www.flickr.com/photos/joebell_/sets/72157644512849860/) - Various photos
+[Europe Express](https://vimeo.com/102052151) - An 11 day journey around mainland Europe
 
-#### Jon Hopkins - Live (2014)
-- [Jon Hopkins](https://www.flickr.com/photos/joebell_/sets/72157642018119755/) - Backstage access to Jon Hopkins' show at Canal Mills in Leeds with Tourist supporting
+#### Living with Autism <small style="font-weight: normal;">(2012)</small>
 
-#### Coldplay - Live (2012)
-- [Coldplay](https://www.flickr.com/photos/joebell_/14119531090/in/set-72157644512849860) - Front-of-show photos from one of Coldplay's 2012 London Emirates Stadium shows
+[Living with Autism](https://vimeo.com/34796278) - A short documentary about a 19-year-old Asperger's Syndrome sufferer (went viral on Reddit and winner of Best Documentary at Southend Film Festival) 
 
-----------
+---
 
+## Photo
 
-<a name="misc">Miscellaneous
--------------
+[Follow me on Instagram](https://www.instagram.com/joebell/).
 
-#### Sound of Silence
-- [Sound of Silence](https://www.youtube.com/watch?v=IBBu7SZJxJ0) - A response to Brazil's loss in the 2014 FIFA world cup, going viral on Reddit with over 7,000,000 views on YouTube
+---
+
+## Misc
+
+### Sound of Silence
+
+[Sound of Silence](https://www.youtube.com/watch?v=IBBu7SZJxJ0) - A response to Brazil's loss in the 2014 FIFA world cup, going viral on Reddit with over 7,000,000 views on YouTube.
